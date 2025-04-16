@@ -38,7 +38,7 @@ html, body {
   width: 100%;
   min-height: 100vh;
   position: relative;
-  background-image: url(./character3_img_mainback2.png);
+  background-image: url('./character3_img_mainback2.png');
   background-position: center;
   background-attachment: fixed;
   padding: 40px 20px;
